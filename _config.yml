@@ -1,0 +1,16 @@
+title: "Olukayode Esho"
+description: "Software Engineer | Cloud | AI | Automation"
+baseurl: ""
+url: "https://olukayodeesho.github.io"
+
+theme: minima
+
+author:
+  name: "Olukayode Esho"
+  email: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
