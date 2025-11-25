@@ -47,7 +47,7 @@ title: "Home"
 
 ### **Enterprise Systems Development**
 
-- UKHSA national system redevelopment
+- Enterprise Application Development
 - ElasticSearch optimization for scientific datasets
 - Data transformation pipelines and integration services
 
@@ -63,5 +63,5 @@ title: "Home"
 
 {% for post in site.posts limit:5 %}
 
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
+- [{{ post.title }}]({{ post.url }})
   {% endfor %}

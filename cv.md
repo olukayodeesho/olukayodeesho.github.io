@@ -91,6 +91,6 @@ GPT-4, Whisper, Gemini Pro, Data transformation automation
 
 ## **Education**
 
-- **MSc Advanced Computer Science** — Northumbria University
+- **MSc Advanced Computer Science** — Northumbria University, Newcastle-Upon-Tyne, United Kingdom
 - **BSc Electronics & Computer Engineering** — Lagos State University
 - **HND & ND Electrical/Electronics Engineering** — Federal Polytechnic, Ado-Ekiti
