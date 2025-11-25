@@ -1,16 +1,22 @@
 title: "Olukayode Esho"
-description: "Software Engineer | Cloud | AI | Automation"
+description: "Senior Software Engineer & Technical Lead — .NET | Java | Ruby | Cloud | AI/ML"
 baseurl: ""
-url: "https://olukayodeesho.github.io"
+url: "https://olukayodeesho.com"
 
 theme: minima
-
-author:
-  name: "Olukayode Esho"
-  email: ""
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 markdown: kramdown
+permalink: /blog/:title/
+
+# Navigation menu items
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - cv.md
+  - blog/index.md
+  - contact.md
