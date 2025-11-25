@@ -3,11 +3,15 @@ layout: page
 title: "Blog"
 ---
 
-# Blog
-
 Welcome to my engineering blog.
 
-{% for post in site.posts %}
-
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
-  {% endfor %}
+<ul>
+{% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {% if post.date %}
+      — <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
