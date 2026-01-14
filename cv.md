@@ -69,7 +69,7 @@ GPT-4, Whisper, Gemini Pro, Data transformation automation
 - Automated payment settlement & reconciliation using RPA (BluePrism + .NET)
 - Led requirement gathering and integration design for banks
 
-### **Lead Software Developer — ALAT / WEMA Bank (2014–2018)**
+### **Senior Software Developer — ALAT / WEMA Bank (2014–2018)**
 
 - Led microservices and integration team (Payment Squad)
 - Built major banking/payment services: card processing, transfers, collections
