@@ -24,6 +24,6 @@ title: "Projects"
 
 ## Enterprise Systems
 
-- UKHSA national system redevelopment
+- Enterprise application redevelopment
 - Data transformation tools
 - ElasticSearch optimization for scientific datasets
